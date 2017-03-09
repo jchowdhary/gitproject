@@ -1,1 +1,2 @@
-THis is a sample text
+Now this line is from browser
+this is a second line from browser
