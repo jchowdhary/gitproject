@@ -1,3 +1,5 @@
 Now this line is from browser
 this is a second line from browser
 this is a third line from command
+
+This is a new line from command for stash example in new branch add
